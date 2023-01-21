@@ -6,7 +6,7 @@
 
 -📚 Estudando e programando Java e Python.
 
--🧠 Inteligencia emocional e foco.
+-🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
 <div align="center">
   <a href="https://github.com/JoaoPedroAmaral">
