@@ -4,7 +4,7 @@
 
 -🛠 Hoje trabalho na CBTU.
 
--📚 Estudando e programando Front-end, Java e python.
+-📚 Estudando e programando Front-end, Java e Python.
 
 -🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
