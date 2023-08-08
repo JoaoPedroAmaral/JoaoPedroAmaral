@@ -2,9 +2,9 @@
 
 -🖊 Cursando Ciência da computação.
 
--🛠 Hoje trabalho na CBTU.
+-🛠 Hoje realizo estágio na CBTU.
 
--📚 Estudando e programando Front-end, Java e Python.
+-📚 Estudando e programando Full-stack, Java e Python.
 
 -🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
