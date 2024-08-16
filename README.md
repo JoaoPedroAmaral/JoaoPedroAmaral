@@ -8,25 +8,13 @@
 
 -🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
-<div align="center">
-  <a href="https://github.com/JoaoPedroAmaral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroAmaral&true=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroAmaral&layout=compact&theme=dark"/>
+  <kbd align="center">
+   <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=JoaoPedroAmaral&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroAmaral&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
+  </kbd>
     
-</div>
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<div style="display: inline_block" align="center"><br>
+      <img src="https://skillicons.dev/icons?i=java,css,html,js,py,java,spring,wordpress,typescript,nodejs,angular&perline=4" />
 </div>
   
 ##  
@@ -36,5 +24,13 @@
   <a href = "mailto:joaopedro251900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-amaral-rosa-8a36b61a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <p align='center'>
+    <a href="https://dev.mysql.com/downloads/">
+   <img src="https://skillicons.dev/icons?i=mysql"/></a>
+   <a href="https://www.eclipse.org/downloads/"/>
+    <img src="https://skillicons.dev/icons?i=eclipse"/></a>
+   <a href="https://code.visualstudio.com/download"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/></a>
+
+</p>
 </div>
