@@ -16,7 +16,7 @@
   </kbd>
     
 <div style="display: inline_block" align="center"><br>
-      <img src="https://skillicons.dev/icons?i=java,css,html,js,py,java,spring,wordpress,typescript,nodejs,angular&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,css,html,js,py,spring,wordpress,typescript,nodejs,angular&perline=4" />
 </div>
   
 ##  
