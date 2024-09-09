@@ -2,9 +2,9 @@
 
 -🖊 Cursando Ciência da computação.
 
--🛠 Hoje realizo estágio na CBTU.
+-🛠 Hoje sou estágiario de TI na CBTU.
 
--📚 Estudando e programando Full-stack, Java e Python.
+-📚 Estudando programação Full-stack com linguagem Java.
 
 -🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
