@@ -8,6 +8,8 @@
 
 -🧠 Inteligencia emocional, foco, maturidade e planejamento.
 
+Portifolio: https://joaopedroamaral.github.io/Portifolio/
+
 <img align="center" src="https://profile-counter.glitch.me/{JoaoPedroAmaral}/count.svg" />
 
 ![snake animation](https://raw.githubusercontent.com/cassimahmedattia/cassimahmedattia/output/snake.svg)
