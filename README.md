@@ -1,14 +1,12 @@
 ### Olá! Me chamo João Pedro!
 
--🖊 Cursando Ciência da computação.
+-🦝 Cursando Ciência da computação.
 
--🛠 Hoje sou estágiario de TI na CBTU.
+-🦝 Hoje sou estágiario de TI na CBTU.
 
--📚 Estudando programação Full-stack com linguagem Java.
+-🦝 Inteligencia emocional, foco, maturidade e planejamento.
 
--🧠 Inteligencia emocional, foco, maturidade e planejamento.
-
-Portifolio: https://joaopedroamaral.github.io/Portifolio/
+Portifolio: [https://devjourneyfrontend.onrender.com/](https://devjourneyfrontend.onrender.com/)
 
 <img align="center" src="https://profile-counter.glitch.me/{JoaoPedroAmaral}/count.svg" />
 
@@ -21,7 +19,7 @@ Portifolio: https://joaopedroamaral.github.io/Portifolio/
   </kbd>
     
 <div style="display: inline_block" align="center"><br>
-      <img src="https://skillicons.dev/icons?i=java,css,html,js,py,spring,wordpress,typescript,nodejs,angular&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,react,css,html,js,angular,wordpress,typescript,bootstrap,nodejs,nextjs,express,mysql,mongodb,postgresql&perline=6" /><br>
 </div>
   
 ##  
@@ -32,8 +30,8 @@ Portifolio: https://joaopedroamaral.github.io/Portifolio/
   <br>
   <br>
  <p align='center'>
-    <a href="https://dev.mysql.com/downloads/">
-   <img src="https://skillicons.dev/icons?i=mysql"/></a>
+    <a href="https://www.jetbrains.com/pt-br/idea/">
+   <img src="https://skillicons.dev/icons?i=idea"/></a>
    <a href="https://www.eclipse.org/downloads/"/>
     <img src="https://skillicons.dev/icons?i=eclipse"/></a>
    <a href="https://code.visualstudio.com/download"/>
