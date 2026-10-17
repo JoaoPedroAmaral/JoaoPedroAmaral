@@ -7,7 +7,7 @@
 [![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com)
 [![Scrum](https://img.shields.io/badge/Scrum-Fundamentals%20Certified-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)](#)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-amaral-rosa-8a36b61a2/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroamaralrosa)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro251900@gmail.com)
 
 </div>
